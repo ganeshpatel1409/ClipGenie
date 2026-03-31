@@ -12,9 +12,7 @@ No editing. No hassle. Just AI magic.
 💡 Smart Content Generation
 
     🖼️ Upload multiple images 
-    
     🧠 AI converts text into structured narration
-    
     🗣️ Automatic voice-over (Text-to-Speech)
 🎬 Video Creation Engine
 
@@ -22,20 +20,20 @@ No editing. No hassle. Just AI magic.
     🔄 Background processing (fully automated)
     📱 Optimized for vertical short videos
 🎨 User Experience
+
     🌙 Clean dark-themed UI
     ⚡ Fast and minimal workflow
     📂 Organized storage system
 
 
 🧠 Core Pipeline
+
     📥 Input:
         Images + Description
-
     ⚙️ Processing:
        ├── Text → Speech (TTS)
        ├── Image Sequencing
        └── Video Rendering (FFmpeg)
-
     📤 Output:
        🎬 Ready-to-share Reel (.mp4)
 
