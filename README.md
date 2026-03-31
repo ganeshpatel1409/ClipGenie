@@ -10,12 +10,14 @@ No editing. No hassle. Just AI magic.
 ✨ Features
 
 💡 Smart Content Generation
+
     🖼️ Upload multiple images 
     
     🧠 AI converts text into structured narration
     
     🗣️ Automatic voice-over (Text-to-Speech)
 🎬 Video Creation Engine
+
     🎞️ Reel generation using FFmpeg
     🔄 Background processing (fully automated)
     📱 Optimized for vertical short videos
