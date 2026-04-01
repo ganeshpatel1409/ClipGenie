@@ -41,15 +41,15 @@ No editing. No hassle. Just AI magic.
 
    🏗️ Project Structure
    📦 NexReel
-├── main.py              # Flask backend
-├── generator.py         # AI + video engine
-├── text_to_audio.py     # TTS module
-├── done.txt             # Process tracker
 
-├── user_uploads/        # Input data (UUID folders)
-├── static/reels/        # Output videos 🎬
-├── templates/           # Frontend UI
-└── requirements.txt
+    ├── main.py              # Flask backend
+    ├── generator.py         # AI + video engine
+    ├── text_to_audio.py     # TTS module
+    ├── done.txt             # Process tracker
+    ├── user_uploads/        # Input data (UUID folders)
+    ├── static/reels/        # Output videos 🎬
+    ├── templates/           # Frontend UI
+    └── requirements.txt
 
 
 🛠️ Tech Stack
