@@ -1,4 +1,4 @@
-🎬 NexReel — AI Auto Reel Generator
+🎬 ClipGenie — AI Auto Reel Generator
 🚀 From Idea → Reel in Seconds
 <p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/FFmpeg-Video%20Engine-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/TTS-Voice%20Generation-orange?style=for-the-badge"/> </p> <p align="center"> <b>Create stunning reels automatically using images + text 🎥</b> </p>
 🌟 Preview
@@ -40,7 +40,8 @@ No editing. No hassle. Just AI magic.
 
 
    🏗️ Project Structure
-   📦 NexReel
+              
+              📦 ClipGenie
 
     ├── main.py              # Flask backend
     ├── generator.py         # AI + video engine
