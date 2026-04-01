@@ -1,0 +1,12 @@
+# --- Core Dependencies ---
+elevenlabs==1.5.0          # ElevenLabs API client
+python-dotenv==1.0.1       # For loading .env configuration
+
+# --- Audio & Media ---
+ffmpeg-python==0.2.0       # FFmpeg wrapper if you manipulate audio/video
+
+# --- File & System Utilities ---
+requests==2.32.3           # For HTTP requests (if you call APIs manually)
+
+
+
