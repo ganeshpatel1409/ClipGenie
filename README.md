@@ -68,22 +68,23 @@ cd NexReel
 pip install -r requirements.txt
 python main.py
 
-🌐 Open: http://localhost:5000
+
 
 🎯 Use Cases
-📱 Instagram Reels / YouTube Shorts
-📚 Educational content
-📢 Marketing videos
-🤖 AI automation projects
-🔮 Future Enhancements
-🎵 Background music & transitions
-🧠 AI script generation
-🎙️ Voice customization
-⚡ Real-time preview
-🌐 API integration
-💡 Vision
 
-NexReel is built to democratize content creation —
+    📱 Instagram Reels / YouTube Shorts
+    📚 Educational content
+    📢 Marketing videos
+    🤖 AI automation projects
+    🔮 Future Enhancements
+    🎵 Background music & transitions
+    🧠 AI script generation
+    🎙️ Voice customization
+    ⚡ Real-time preview
+    🌐 API integration
+    💡 Vision
+
+ClipGenie is built to democratize content creation —
 turning anyone into a creator with the power of AI.
 
 🏆 Tagline
